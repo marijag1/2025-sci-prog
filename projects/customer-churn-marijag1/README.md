@@ -1,4 +1,4 @@
-### Customer Churn Prediction - Marija G1
+### Customer Churn Prediction - Marija Golemac
 
 - **Project:** Customer Churn Prediction
 - **Student:** Marija Golemac
