@@ -51,6 +51,6 @@ Please add your project using this format:
 
 - **Project:** Sales Forecasting Using Historical Retail Data
 - **Student:** Karla Kulić
-- **Folder:** sales-forecasting-karlakulic/
+- **Folder:** `sales-forecasting-karlakulic/`
 - **Status:** In Progress
 - **Description:** Forecasting future retail sales using historical time series data to support inventory planning and decision making.
