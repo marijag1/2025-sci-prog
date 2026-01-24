@@ -46,3 +46,11 @@ Please add your project using this format:
 ### Jane Doe
 * **Project:** Data Analysis of Climate Change Patterns
 * **Description:** Analyzing temperature and precipitation data using pandas and matplotlib to identify climate trends.
+
+### Sales Forecasting Using Historical Retail Data – Karla Kulić
+
+- **Project:** Sales Forecasting Using Historical Retail Data
+- **Student:** Karla Kulić
+- **Folder:** sales-forecasting-karlakulic/
+- **Status:** In Progress
+- **Description:** Forecasting future retail sales using historical time series data to support inventory planning and decision making.
