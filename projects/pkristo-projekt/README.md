@@ -83,9 +83,6 @@ Each record represents one shipment with the following attributes:
 
 ---
 
-7. ## How to run
-All results presented in this project can be reproduced by opening the notebook and executing all cells sequentially.
-
 ## Project Flow Diagram
 
 ```mermaid
@@ -104,3 +101,7 @@ flowchart LR
     style E fill:#fbcfe8,stroke:#be185d,stroke-width:2px,color:#000
     style F fill:#e9d5ff,stroke:#7e22ce,stroke-width:2px,color:#000
     style G fill:#fee2e2,stroke:#b91c1c,stroke-width:2px,color:#000
+
+
+7. ## How to run
+All results presented in this project can be reproduced by opening the notebook and executing all cells sequentially.
