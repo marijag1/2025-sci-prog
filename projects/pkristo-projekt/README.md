@@ -83,6 +83,9 @@ Each record represents one shipment with the following attributes:
 
 ---
 
+7. ## How to run
+All results presented in this project can be reproduced by opening the notebook and executing all cells sequentially.
+
 ## Project Flow Diagram
 
 ```mermaid
